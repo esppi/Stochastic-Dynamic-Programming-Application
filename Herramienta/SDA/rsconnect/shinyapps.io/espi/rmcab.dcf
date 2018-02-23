@@ -1,0 +1,13 @@
+name: rmcab
+title: RMCAB
+username:
+account: espi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 246105
+bundleId: 1126476
+url: https://espi.shinyapps.io/rmcab/
+when: 1512930720.70036
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: desktop.ini|Fase5v3.0.R

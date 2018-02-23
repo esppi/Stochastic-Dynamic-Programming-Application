@@ -1,0 +1,13 @@
+name: MinAmbiente
+title: MinAmbiente
+username:
+account: espi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 246064
+bundleId: 1122389
+url: https://espi.shinyapps.io/MinAmbiente/
+when: 1512701832.56148
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Min.R|Minv2.0.R
